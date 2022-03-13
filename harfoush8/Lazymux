@@ -1,0 +1,13 @@
+pkg install python git
+
+
+
+
+git clone https://github.com/Harfoush8/Lazymux
+
+
+cd Lazymux
+
+ python lazymux.py
+
+
